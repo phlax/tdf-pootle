@@ -31,4 +31,4 @@ setup(
     keywords='tdf pootle tools extensions plugins',
     packages=find_packages(exclude=['contrib', 'docs', 'tests*']),
     include_package_data=True,
-    install_requires=['pootle'])
+    install_requires=['pootle', 'th_pootle'])
